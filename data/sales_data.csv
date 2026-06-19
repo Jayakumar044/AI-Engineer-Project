@@ -1,0 +1,506 @@
+Date,Region,Category,Product,Quantity,UnitPrice,DiscountPct,TotalSales,CustomerAge,CustomerGender,PaymentMethod
+2024-01-01,East,Groceries,Spices,11,5.8,0,63.8,,Female,UPI
+2024-01-01,West,Clothing,Shoes,5,65.05,0,325.25,45.0,Female,UPI
+2024-01-02,North,Furniture,Bed,3,89.55,0,268.65,43.0,Male,Debit Card
+2024-01-03,East,Groceries,Spices,8,27.18,5,206.57,59.0,Female,Net Banking
+2024-01-03,South,Clothing,Shoes,14,39.39,15,468.74,62.0,Female,Net Banking
+2024-01-04,West,Groceries,Spices,9,18.09,0,162.81,28.0,Male,Credit Card
+2024-01-05,East,Toys,Action Figure,7,10.25,0,71.75,41.0,Male,UPI
+2024-01-06,East,Electronics,Headphones,5,1167.47,0,5837.35,,Male,Debit Card
+2024-01-06,East,Electronics,Tablet,13,634.86,0,8253.18,49.0,Male,UPI
+2024-01-07,South,Toys,Puzzle,5,34.66,15,147.3,45.0,Male,Credit Card
+2024-01-08,North,Groceries,Spices,9,20.42,0,183.78,41.0,Male,UPI
+2024-01-09,North,Groceries,Rice,14,20.9,0,292.6,34.0,Male,Credit Card
+2024-01-09,East,Toys,Puzzle,1,18.31,10,16.48,28.0,Female,UPI
+2024-01-10,North,Groceries,Oil,6,7.73,10,41.74,20.0,Female,
+2024-01-11,East,Furniture,Bookshelf,7,358.45,0,2509.15,42.0,Female,Debit Card
+2024-01-11,South,Electronics,Tablet,12,349.95,0,4199.4,58.0,Male,UPI
+2024-01-12,West,Electronics,Tablet,11,1125.98,20,9908.62,42.0,Male,Debit Card
+2024-01-13,South,Furniture,Bed,9,435.6,10,3528.36,20.0,Male,Credit Card
+2024-01-14,South,Toys,Board Game,6,41.79,15,213.13,,Male,Cash
+2024-01-14,North,Groceries,Beverages,14,2.59,5,34.45,48.0,Male,Cash
+2024-01-15,North,Electronics,Headphones,2,690.32,10,1242.58,39.0,Male,Debit Card
+2024-01-16,South,Electronics,Laptop,9,857.86,15,6562.63,,Female,Debit Card
+2024-01-17,West,Electronics,Tablet,3,438.69,5,1250.27,,Female,Debit Card
+2024-01-17,South,Furniture,Bookshelf,5,235.39,0,1176.95,69.0,Female,UPI
+2024-01-18,North,Clothing,Shoes,10,81.57,0,815.7,40.0,Male,Credit Card
+2024-01-19,South,Electronics,Smartphone,14,157.95,10,1990.17,22.0,Female,Net Banking
+2024-01-20,West,Furniture,Bed,6,113.12,10,610.85,29.0,Female,Debit Card
+2024-01-20,West,Electronics,Smartwatch,7,105.27,20,589.51,49.0,Male,Net Banking
+2024-01-21,West,Clothing,T-Shirt,12,94.62,5,1078.67,68.0,Male,Net Banking
+2024-01-22,West,Clothing,Jacket,12,29.31,0,351.72,43.0,Female,
+2024-01-22,South,Furniture,Chair,7,532.84,15,3170.4,53.0,Female,Net Banking
+2024-01-23,North,Furniture,Bookshelf,2,704.32,10,1267.78,40.0,Male,UPI
+2024-01-24,South,Groceries,Rice,6,38.42,0,230.52,45.0,Female,Cash
+2024-01-25,North,Toys,Board Game,12,48.43,0,581.16,59.0,Female,Debit Card
+2024-01-25,East,Furniture,Table,12,704.15,0,8449.8,26.0,Female,UPI
+2024-01-26,North,Furniture,Bed,1,733.54,10,660.19,36.0,Male,Cash
+2024-01-27,South,Furniture,Sofa,13,120.54,10,1410.32,18.0,Male,Net Banking
+2024-01-28,West,Electronics,Laptop,8,657.63,0,5261.04,33.0,Female,Net Banking
+2024-01-28,East,Furniture,Bookshelf,9,580.94,5,4967.04,33.0,Male,Credit Card
+2024-01-29,West,Groceries,Beverages,5,15.43,0,77.15,58.0,Female,UPI
+2024-01-30,North,Toys,Doll,13,57.24,10,669.71,64.0,Male,Debit Card
+2024-01-30,East,Toys,RC Car,7,25.72,10,162.04,42.0,Female,UPI
+2024-01-31,South,Electronics,Headphones,1,65.72,20,52.58,40.0,Male,Net Banking
+2024-02-01,North,Toys,Puzzle,14,46.63,0,652.82,48.0,Female,Debit Card
+2024-02-02,East,Furniture,Table,12,143.65,5,1637.61,40.0,Male,Net Banking
+2024-02-02,East,Groceries,Oil,6,5.46,5,31.12,50.0,Female,Cash
+2024-02-03,North,Toys,RC Car,4,7.52,10,27.07,19.0,Male,UPI
+2024-02-04,East,Electronics,Headphones,6,852.32,5,4858.22,49.0,Female,Net Banking
+2024-02-05,North,Clothing,Shoes,10,17.98,0,179.8,31.0,Female,Net Banking
+2024-02-05,East,Electronics,Headphones,13,52.98,5,654.3,39.0,Female,Debit Card
+2024-02-06,South,Toys,Action Figure,14,46.23,0,647.22,35.0,Female,UPI
+2024-02-07,East,Toys,Doll,10,17.83,0,178.3,42.0,Female,Debit Card
+2024-02-08,East,Groceries,Oil,8,14.82,10,106.7,62.0,Female,
+2024-02-08,North,Groceries,Snacks,14,5.05,5,67.17,53.0,Female,Debit Card
+2024-02-09,East,Electronics,Headphones,14,1118.78,0,15662.92,21.0,Male,Cash
+2024-02-10,East,Electronics,Smartphone,14,381.93,0,5347.02,67.0,Female,Debit Card
+2024-02-10,South,Toys,Action Figure,4,30.94,5,117.57,47.0,Male,Credit Card
+2024-02-11,South,Toys,Board Game,9,7.65,10,61.97,28.0,Male,Net Banking
+2024-02-12,North,Toys,RC Car,3,26.58,15,67.78,56.0,Female,UPI
+2024-02-13,East,Electronics,Laptop,1,1084.51,0,1084.51,23.0,Male,UPI
+2024-02-13,East,Toys,Puzzle,4,43.88,10,157.97,50.0,Female,Cash
+2024-02-14,East,Clothing,T-Shirt,6,19.96,10,107.78,22.0,Male,Cash
+2024-02-15,East,Furniture,Sofa,4,328.9,5,1249.82,25.0,Male,Debit Card
+2024-02-16,North,Clothing,T-Shirt,1,88.49,20,70.79,25.0,Male,Debit Card
+2024-02-16,North,Furniture,Bed,14,404.6,15,4814.74,40.0,Male,Credit Card
+2024-02-17,West,Toys,Puzzle,5,26.9,5,127.78,28.0,Female,Debit Card
+2024-02-18,East,Electronics,Headphones,11,570.31,20,5018.73,66.0,Male,
+2024-02-19,North,Electronics,Laptop,4,577.84,0,2311.36,49.0,Male,UPI
+2024-02-19,West,Toys,Puzzle,13,44.27,5,546.73,45.0,Male,Debit Card
+2024-02-20,West,Electronics,Smartwatch,7,1138.03,0,7966.21,45.0,Female,Debit Card
+2024-02-21,North,Furniture,Sofa,13,490.0,10,5733.0,52.0,Female,UPI
+2024-02-21,South,Toys,Action Figure,7,53.2,10,335.16,35.0,Female,Credit Card
+2024-02-22,South,Clothing,Jacket,7,84.76,15,504.32,52.0,Female,Debit Card
+2024-02-23,South,Furniture,Chair,2,469.98,0,939.96,60.0,Female,Cash
+2024-02-24,South,Toys,Board Game,6,35.48,10,191.59,,Male,Net Banking
+2024-02-24,North,Furniture,Table,12,492.77,10,5321.92,63.0,Female,Debit Card
+2024-02-25,East,Toys,Doll,3,44.55,0,133.65,52.0,Female,Debit Card
+2024-02-26,South,Toys,Puzzle,10,32.3,5,306.85,51.0,Male,Debit Card
+2024-02-27,West,Electronics,Laptop,9,860.66,0,7745.94,68.0,Female,Debit Card
+2024-02-27,East,Furniture,Chair,13,455.34,10,5327.48,48.0,Male,Credit Card
+2024-02-28,South,Electronics,Smartphone,9,793.66,5,6785.79,34.0,Male,Debit Card
+2024-02-29,South,Toys,Puzzle,3,52.41,15,133.65,35.0,Male,Debit Card
+2024-02-29,West,Furniture,Bookshelf,12,461.79,5,5264.41,66.0,Female,Net Banking
+2024-03-01,North,Toys,Action Figure,12,53.11,5,605.45,49.0,Female,
+2024-03-02,North,Electronics,Smartwatch,14,601.86,5,8004.74,56.0,Female,
+2024-03-03,North,Clothing,Shoes,2,13.79,0,27.58,41.0,Female,Cash
+2024-03-03,North,Furniture,Bookshelf,6,512.57,10,2767.88,21.0,Male,Cash
+2024-03-04,East,Toys,Action Figure,11,24.26,0,266.86,64.0,Male,Credit Card
+2024-03-05,North,Toys,Board Game,10,30.49,10,274.41,64.0,Male,Credit Card
+2024-03-06,East,Electronics,Headphones,11,198.94,10,1969.51,22.0,Male,UPI
+2024-03-06,South,Furniture,Bed,10,158.82,0,1588.2,62.0,Female,Net Banking
+2024-03-07,West,Clothing,Jacket,13,89.08,15,984.33,58.0,Male,UPI
+2024-03-08,West,Furniture,Bookshelf,7,415.14,15,2470.08,47.0,Male,Debit Card
+2024-03-09,North,Groceries,Oil,13,11.87,5,146.59,52.0,Female,UPI
+2024-03-09,West,Clothing,Shoes,12,77.83,20,747.17,34.0,Female,Credit Card
+2024-03-10,South,Furniture,Table,2,401.09,0,802.18,46.0,Male,Credit Card
+2024-03-11,East,Furniture,Table,7,797.93,0,5585.51,46.0,Male,UPI
+2024-03-11,South,Groceries,Snacks,11,29.79,15,278.54,37.0,Female,UPI
+2024-03-12,North,Clothing,Shoes,6,29.18,15,148.82,33.0,Male,Cash
+2024-03-13,North,Furniture,Table,4,291.8,0,1167.2,32.0,Male,Credit Card
+2024-03-14,North,Electronics,Tablet,6,719.27,0,4315.62,35.0,Female,Debit Card
+2024-03-14,West,Furniture,Bed,9,108.53,0,976.77,63.0,Female,Cash
+2024-03-15,West,Clothing,Shoes,1,17.91,0,17.91,19.0,Female,Debit Card
+2024-03-16,South,Clothing,Shoes,1,21.18,10,19.06,58.0,Female,Cash
+2024-03-17,South,Groceries,Snacks,7,31.79,0,222.53,59.0,Female,UPI
+2024-03-17,West,Toys,Puzzle,13,52.95,5,653.93,49.0,Male,Cash
+2024-03-18,South,Toys,Puzzle,11,6.69,0,73.59,29.0,Male,Net Banking
+2024-03-19,West,Toys,Doll,12,36.83,5,419.86,51.0,Female,Cash
+2024-03-19,South,Clothing,Jacket,3,42.32,0,126.96,43.0,Female,Cash
+2024-03-20,West,Clothing,Cap,5,49.34,5,234.36,37.0,Female,Credit Card
+2024-03-21,South,Furniture,Bed,5,174.23,0,871.15,20.0,Female,Debit Card
+2024-03-22,North,Electronics,Smartwatch,4,726.07,10,2613.85,64.0,Male,Cash
+2024-03-22,West,Groceries,Beverages,11,22.18,0,243.98,52.0,Female,Net Banking
+2024-03-23,North,Furniture,Bookshelf,10,573.9,20,4591.2,56.0,Male,UPI
+2024-03-24,West,Toys,Doll,2,41.99,5,79.78,22.0,Male,Debit Card
+2024-03-25,East,Clothing,Jeans,2,88.2,10,158.76,50.0,Male,UPI
+2024-03-25,West,Toys,Puzzle,10,52.65,20,421.2,30.0,Male,Net Banking
+2024-03-26,West,Clothing,Cap,6,70.08,5,399.46,28.0,Male,Credit Card
+2024-03-27,South,Toys,Board Game,12,5.81,5,66.23,25.0,Female,Debit Card
+2024-03-28,North,Clothing,Jeans,6,83.24,0,499.44,53.0,Male,UPI
+2024-03-28,South,Groceries,Snacks,11,26.6,0,292.6,28.0,Male,Cash
+2024-03-29,South,Toys,Doll,5,22.12,10,99.54,35.0,Female,Credit Card
+2024-03-30,South,Furniture,Bookshelf,10,292.6,20,2340.8,37.0,Female,Credit Card
+2024-03-30,East,Furniture,Bed,7,507.35,0,3551.45,59.0,Female,Credit Card
+2024-03-31,South,Furniture,Bookshelf,12,631.99,0,7583.88,66.0,Male,Cash
+2024-04-01,North,Toys,Board Game,12,8.22,0,98.64,52.0,Male,Net Banking
+2024-04-02,North,Electronics,Laptop,11,1189.94,0,13089.34,63.0,Female,Net Banking
+2024-04-02,West,Electronics,Headphones,6,458.25,0,2749.5,38.0,Female,Debit Card
+2024-04-03,South,Furniture,Table,7,796.75,5,5298.39,53.0,Male,Net Banking
+2024-04-04,East,Clothing,T-Shirt,7,41.28,0,288.96,45.0,Male,Net Banking
+2024-04-05,North,Electronics,Smartwatch,4,767.12,10,2761.63,51.0,Male,Cash
+2024-04-05,South,Electronics,Smartwatch,2,1127.5,10,2029.5,23.0,Male,UPI
+2024-04-06,West,Clothing,Shoes,1,83.57,15,71.03,33.0,Male,Cash
+2024-04-07,East,Clothing,Jacket,2,96.16,5,182.7,50.0,Female,Credit Card
+2024-04-08,North,Groceries,Snacks,3,4.59,0,13.77,21.0,Male,Cash
+2024-04-08,West,Toys,Doll,2,38.14,0,76.28,48.0,Male,Net Banking
+2024-04-09,South,Furniture,Table,13,389.84,10,4561.13,63.0,Male,Cash
+2024-04-10,West,Electronics,Smartwatch,7,303.92,10,1914.7,52.0,Male,UPI
+2024-04-10,North,Toys,RC Car,14,37.02,10,466.45,56.0,Male,Credit Card
+2024-04-11,North,Toys,RC Car,2,40.53,5,77.01,43.0,Female,Cash
+2024-04-12,South,Furniture,Chair,13,645.21,10,7548.96,26.0,Male,Credit Card
+2024-04-13,North,Clothing,Jeans,10,80.31,5,762.94,66.0,Male,Credit Card
+2024-04-13,East,Toys,Doll,1,41.25,15,35.06,52.0,Female,Credit Card
+2024-04-14,South,Groceries,Snacks,4,8.62,10,31.03,,Female,Debit Card
+2024-04-15,West,Electronics,Laptop,9,489.23,10,3962.76,67.0,Female,Net Banking
+2024-04-16,South,Toys,RC Car,12,10.23,0,122.76,31.0,Female,Debit Card
+2024-04-16,South,Groceries,Spices,12,12.86,15,131.17,66.0,Female,Credit Card
+2024-04-17,South,Toys,Doll,11,45.04,0,495.44,38.0,Male,Cash
+2024-04-18,East,Groceries,Spices,6,13.31,10,71.87,56.0,Female,Credit Card
+2024-04-18,South,Clothing,T-Shirt,12,99.26,0,1191.12,27.0,Male,UPI
+2024-04-19,North,Electronics,Tablet,4,56.01,20,179.23,37.0,Male,UPI
+2024-04-20,East,Toys,Action Figure,4,12.58,10,45.29,,Male,Net Banking
+2024-04-21,West,Electronics,Smartwatch,4,512.68,0,2050.72,69.0,Female,Debit Card
+2024-04-21,West,Groceries,Snacks,1,30.35,0,30.35,53.0,Female,UPI
+2024-04-22,East,Electronics,Laptop,2,477.14,0,954.28,50.0,Male,Cash
+2024-04-23,East,Groceries,Snacks,7,15.76,0,110.32,66.0,Female,Net Banking
+2024-04-24,East,Toys,Board Game,10,31.45,5,298.77,22.0,Female,Debit Card
+2024-04-24,South,Furniture,Chair,8,194.41,10,1399.75,,Male,Cash
+2024-04-25,South,Groceries,Snacks,7,30.86,10,194.42,61.0,Male,Net Banking
+2024-04-26,South,Clothing,Jacket,9,38.37,10,310.8,28.0,Female,Net Banking
+2024-04-27,West,Electronics,Smartwatch,10,1176.48,0,11764.8,38.0,Female,Cash
+2024-04-27,South,Toys,Doll,10,17.51,5,166.35,60.0,Male,Credit Card
+2024-04-28,South,Clothing,T-Shirt,10,95.11,5,903.54,56.0,Female,Cash
+2024-04-29,West,Furniture,Table,3,224.98,0,674.94,63.0,Female,Net Banking
+2024-04-29,South,Furniture,Bed,9,481.75,0,4335.75,61.0,Male,Debit Card
+2024-04-30,West,Electronics,Headphones,2,157.42,0,314.84,58.0,Female,Net Banking
+2024-05-01,East,Clothing,Jeans,12,81.39,0,976.68,57.0,Female,Credit Card
+2024-05-02,West,Toys,Doll,11,11.47,10,113.55,33.0,Male,Net Banking
+2024-05-02,North,Clothing,Shoes,12,48.47,5,552.56,42.0,Female,Debit Card
+2024-05-03,East,Toys,Doll,13,59.34,20,617.14,61.0,Female,Credit Card
+2024-05-04,East,Groceries,Beverages,14,5.82,0,81.48,58.0,Male,Debit Card
+2024-05-05,West,Electronics,Smartwatch,12,591.98,0,7103.76,57.0,Female,Cash
+2024-05-05,West,Groceries,Rice,8,34.92,0,279.36,38.0,Male,Credit Card
+2024-05-06,South,Groceries,Beverages,1,11.89,10,10.7,40.0,Male,UPI
+2024-05-07,South,Groceries,Spices,8,20.2,5,153.52,31.0,Female,Credit Card
+2024-05-08,South,Furniture,Chair,12,603.2,0,7238.4,64.0,Female,Net Banking
+2024-05-08,South,Electronics,Laptop,8,376.4,5,2860.64,21.0,Female,Debit Card
+2024-05-09,North,Toys,Puzzle,14,41.24,0,577.36,54.0,Male,Cash
+2024-05-10,North,Electronics,Tablet,3,1003.68,0,3011.04,29.0,Female,Credit Card
+2024-05-10,South,Toys,Board Game,6,10.73,0,64.38,62.0,Male,Cash
+2024-05-11,East,Electronics,Laptop,8,779.22,0,6233.76,25.0,Male,Cash
+2024-05-12,North,Electronics,Headphones,8,590.21,15,4013.43,66.0,Female,UPI
+2024-05-13,East,Toys,RC Car,1,49.92,0,49.92,34.0,Female,Net Banking
+2024-05-13,North,Toys,Board Game,14,28.2,5,375.06,25.0,Male,Net Banking
+2024-05-14,North,Toys,Action Figure,7,44.47,15,264.6,66.0,Male,Cash
+2024-05-15,South,Electronics,Tablet,2,156.13,0,312.26,58.0,Male,Debit Card
+2024-05-16,South,Furniture,Sofa,13,737.57,10,8629.57,44.0,Male,Debit Card
+2024-05-16,South,Clothing,T-Shirt,9,36.55,0,328.95,66.0,Male,Credit Card
+2024-05-17,West,Toys,Board Game,2,37.47,0,74.94,49.0,Male,UPI
+2024-05-18,East,Furniture,Table,11,575.65,5,6015.54,21.0,Male,Credit Card
+2024-05-18,North,Clothing,Shoes,2,40.65,10,73.17,22.0,Female,Debit Card
+2024-05-19,South,Electronics,Tablet,1,211.64,0,211.64,44.0,Female,UPI
+2024-05-20,South,Furniture,Bed,5,163.62,15,695.38,21.0,Female,Cash
+2024-05-21,East,Groceries,Rice,13,20.16,0,262.08,40.0,Male,UPI
+2024-05-21,East,Clothing,T-Shirt,5,34.32,5,163.02,41.0,Male,UPI
+2024-05-22,West,Furniture,Bed,1,314.59,10,283.13,25.0,Female,Net Banking
+2024-05-23,East,Furniture,Bed,2,706.38,0,1412.76,34.0,Female,Cash
+2024-05-24,South,Electronics,Headphones,3,639.84,5,1823.54,28.0,Male,UPI
+2024-05-24,South,Electronics,Headphones,5,1177.85,20,4711.4,65.0,Male,
+2024-05-25,North,Electronics,Laptop,8,121.83,20,779.71,,Female,Net Banking
+2024-05-26,South,Clothing,Cap,12,35.09,20,336.86,25.0,Female,
+2024-05-27,East,Electronics,Tablet,9,777.84,15,5950.48,18.0,Female,UPI
+2024-05-27,North,Clothing,Shoes,14,37.55,10,473.13,62.0,Male,UPI
+2024-05-28,West,Electronics,Smartphone,10,328.57,0,3285.7,51.0,Male,UPI
+2024-05-29,South,Furniture,Bed,7,541.14,0,3787.98,42.0,Female,Credit Card
+2024-05-29,South,Clothing,Shoes,8,67.34,0,538.72,32.0,Female,Cash
+2024-05-30,South,Groceries,Oil,2,17.29,0,34.58,46.0,Female,Debit Card
+2024-05-31,East,Clothing,T-Shirt,6,76.68,0,460.08,44.0,Female,Cash
+2024-06-01,East,Toys,Board Game,1,7.33,5,6.96,44.0,Male,Debit Card
+2024-06-01,East,Toys,RC Car,1,19.79,5,18.8,36.0,Female,Net Banking
+2024-06-02,West,Groceries,Rice,3,16.05,10,43.34,35.0,Male,Net Banking
+2024-06-03,North,Electronics,Headphones,6,1062.18,0,6373.08,24.0,Female,Debit Card
+2024-06-04,West,Toys,Doll,8,41.68,15,283.42,27.0,Male,Cash
+2024-06-04,North,Toys,Action Figure,6,23.16,20,111.17,69.0,Female,Net Banking
+2024-06-05,West,Clothing,T-Shirt,4,34.05,5,129.39,59.0,Male,Credit Card
+2024-06-06,West,Toys,Puzzle,1,36.25,10,32.62,30.0,Male,
+2024-06-06,East,Electronics,Laptop,8,576.7,0,4613.6,45.0,Male,Cash
+2024-06-07,South,Electronics,Smartwatch,8,1190.03,0,9520.24,61.0,Male,Debit Card
+2024-06-08,East,Toys,Board Game,11,40.36,15,377.37,64.0,Female,Cash
+2024-06-09,South,Clothing,Jeans,1,54.76,0,54.76,51.0,Male,Net Banking
+2024-06-09,South,Clothing,Jeans,14,13.95,0,195.3,50.0,Male,UPI
+2024-06-10,West,Groceries,Rice,4,39.28,0,157.12,42.0,Female,UPI
+2024-06-11,South,Clothing,Shoes,12,91.71,20,880.42,25.0,Male,Debit Card
+2024-06-12,East,Electronics,Headphones,7,948.55,15,5643.87,53.0,Male,Cash
+2024-06-12,East,Toys,Action Figure,12,18.52,5,211.13,61.0,Male,Net Banking
+2024-06-13,West,Furniture,Table,3,426.72,0,1280.16,52.0,Male,UPI
+2024-06-14,North,Groceries,Spices,4,36.28,20,116.1,40.0,Female,UPI
+2024-06-15,South,Electronics,Laptop,6,1046.79,5,5966.7,52.0,Female,Debit Card
+2024-06-15,East,Clothing,Cap,5,84.08,0,420.4,65.0,Male,Cash
+2024-06-16,South,Furniture,Bed,1,681.79,10,613.61,59.0,Female,UPI
+2024-06-17,North,Groceries,Spices,5,24.44,0,122.2,27.0,Female,Net Banking
+2024-06-17,East,Groceries,Beverages,12,34.24,0,410.88,54.0,Male,UPI
+2024-06-18,West,Furniture,Bookshelf,7,470.58,5,3129.36,59.0,Female,UPI
+2024-06-19,North,Furniture,Table,6,293.52,0,1761.12,18.0,Male,Credit Card
+2024-06-20,East,Clothing,Jacket,6,72.51,15,369.8,46.0,Male,Net Banking
+2024-06-20,North,Furniture,Chair,1,761.91,0,761.91,49.0,Female,
+2024-06-21,West,Furniture,Table,1,249.18,5,236.72,66.0,Female,UPI
+2024-06-22,West,Toys,Board Game,3,22.04,0,66.12,39.0,Male,Credit Card
+2024-06-23,West,Furniture,Table,7,565.29,0,3957.03,28.0,Male,UPI
+2024-06-23,North,Electronics,Tablet,14,746.33,10,9403.76,19.0,Female,Cash
+2024-06-24,East,Furniture,Bed,8,757.72,5,5758.67,27.0,Male,Debit Card
+2024-06-25,South,Electronics,Smartwatch,2,860.24,0,1720.48,42.0,Male,Debit Card
+2024-06-26,South,Clothing,Jacket,7,16.8,5,111.72,37.0,Male,
+2024-06-26,East,Furniture,Table,9,305.29,15,2335.47,18.0,Male,Debit Card
+2024-06-27,East,Furniture,Bed,11,348.96,0,3838.56,24.0,Male,Credit Card
+2024-06-28,West,Electronics,Smartwatch,14,266.82,5,3548.71,52.0,Female,UPI
+2024-06-28,East,Groceries,Spices,11,25.31,0,278.41,37.0,Male,Credit Card
+2024-06-29,West,Electronics,Laptop,14,361.43,10,4554.02,28.0,Female,Debit Card
+2024-06-30,South,Furniture,Bookshelf,11,366.16,20,3222.21,25.0,Male,Debit Card
+2024-07-01,East,Electronics,Laptop,12,473.72,10,5116.18,60.0,Male,Cash
+2024-07-01,South,Groceries,Snacks,5,31.83,0,159.15,39.0,Female,
+2024-07-02,West,Electronics,Headphones,14,63.22,10,796.57,45.0,Male,Debit Card
+2024-07-03,West,Furniture,Sofa,4,259.97,0,1039.88,69.0,Female,Credit Card
+2024-07-04,East,Toys,Doll,14,10.64,0,148.96,68.0,Male,UPI
+2024-07-04,North,Clothing,T-Shirt,12,77.35,10,835.38,30.0,Female,Cash
+2024-07-05,North,Toys,Action Figure,5,6.05,0,30.25,59.0,Male,Debit Card
+2024-07-06,West,Clothing,T-Shirt,10,32.08,0,320.8,45.0,Female,UPI
+2024-07-06,South,Electronics,Headphones,3,850.89,15,2169.77,51.0,Male,Net Banking
+2024-07-07,North,Toys,Action Figure,1,32.93,5,31.28,66.0,Female,Credit Card
+2024-07-08,East,Toys,RC Car,11,34.46,15,322.2,39.0,Female,Credit Card
+2024-07-09,North,Toys,Board Game,3,26.33,15,67.14,68.0,Female,Debit Card
+2024-07-09,West,Electronics,Tablet,12,677.42,0,8129.04,46.0,Male,Debit Card
+2024-07-10,South,Furniture,Bookshelf,11,331.96,15,3103.83,66.0,Male,Cash
+2024-07-11,West,Electronics,Tablet,8,539.98,10,3887.86,52.0,Male,UPI
+2024-07-12,East,Groceries,Rice,12,25.01,10,270.11,59.0,Male,Net Banking
+2024-07-12,South,Toys,RC Car,11,16.82,5,175.77,29.0,Female,Cash
+2024-07-13,South,Clothing,Jeans,12,50.57,5,576.5,20.0,Female,UPI
+2024-07-14,North,Groceries,Spices,10,4.4,15,37.4,49.0,Male,Cash
+2024-07-15,North,Groceries,Rice,5,11.25,0,56.25,67.0,Female,Credit Card
+2024-07-15,West,Toys,RC Car,6,58.2,15,296.82,29.0,Male,Net Banking
+2024-07-16,South,Furniture,Bed,11,376.06,0,4136.66,,Female,UPI
+2024-07-17,North,Furniture,Table,1,682.73,10,614.46,38.0,Male,Debit Card
+2024-07-17,North,Furniture,Sofa,2,244.79,20,391.66,45.0,Male,UPI
+2024-07-18,South,Groceries,Rice,10,19.28,10,173.52,35.0,Female,UPI
+2024-07-19,North,Furniture,Chair,9,618.41,0,5565.69,39.0,Female,Debit Card
+2024-07-20,South,Clothing,Shoes,2,64.87,20,103.79,20.0,Female,Debit Card
+2024-07-20,North,Electronics,Smartphone,4,140.34,0,561.36,43.0,Female,Credit Card
+2024-07-21,West,Furniture,Bed,11,610.95,20,5376.36,37.0,Male,Debit Card
+2024-07-22,North,Toys,Doll,12,56.59,0,679.08,28.0,Female,Debit Card
+2024-07-23,East,Groceries,Oil,6,22.14,0,132.84,25.0,Female,Cash
+2024-07-23,South,Toys,Doll,10,16.58,15,140.93,48.0,Female,Debit Card
+2024-07-24,South,Toys,Action Figure,8,53.15,5,403.94,48.0,Male,Debit Card
+2024-07-25,West,Clothing,T-Shirt,6,61.69,0,370.14,56.0,Male,Credit Card
+2024-07-26,South,Furniture,Bed,2,482.9,0,965.8,65.0,Female,Cash
+2024-07-26,West,Toys,RC Car,1,52.83,5,50.19,56.0,Female,Credit Card
+2024-07-27,East,Groceries,Spices,14,36.32,5,483.06,25.0,Female,Credit Card
+2024-07-28,South,Furniture,Sofa,12,653.07,0,7836.84,38.0,Female,Cash
+2024-07-28,North,Toys,Action Figure,2,35.49,0,70.98,41.0,Female,Debit Card
+2024-07-29,West,Furniture,Table,11,636.21,10,6298.48,34.0,Female,Net Banking
+2024-07-30,South,Clothing,Cap,11,28.4,20,249.92,27.0,Female,Net Banking
+2024-07-31,North,Electronics,Tablet,9,1015.06,0,9135.54,50.0,Male,Credit Card
+2024-07-31,South,Groceries,Rice,11,6.77,0,74.47,46.0,Male,Net Banking
+2024-08-01,South,Clothing,Cap,13,57.23,0,743.99,68.0,Female,UPI
+2024-08-02,South,Furniture,Bookshelf,2,444.56,0,889.12,30.0,Female,Debit Card
+2024-08-03,East,Groceries,Snacks,10,34.28,20,274.24,50.0,Male,Cash
+2024-08-03,West,Groceries,Snacks,9,14.97,20,107.78,20.0,Female,Debit Card
+2024-08-04,West,Clothing,Jacket,3,20.33,15,51.84,61.0,Female,Debit Card
+2024-08-05,West,Groceries,Rice,6,18.34,0,110.04,50.0,Female,Net Banking
+2024-08-05,West,Electronics,Smartwatch,8,184.07,10,1325.3,35.0,Male,Cash
+2024-08-06,West,Furniture,Table,10,675.12,5,6413.64,54.0,Female,UPI
+2024-08-07,North,Furniture,Table,1,701.7,10,631.53,25.0,Male,Net Banking
+2024-08-08,South,Electronics,Smartphone,5,326.08,0,1630.4,54.0,Male,Credit Card
+2024-08-08,South,Clothing,Cap,1,90.63,5,86.1,30.0,Male,Credit Card
+2024-08-09,East,Toys,RC Car,11,42.36,0,465.96,,Male,Debit Card
+2024-08-10,West,Furniture,Table,2,688.3,5,1307.77,60.0,Male,Cash
+2024-08-11,West,Groceries,Snacks,10,16.19,0,161.9,49.0,Female,Net Banking
+2024-08-11,North,Groceries,Snacks,12,21.69,0,260.28,25.0,Female,UPI
+2024-08-12,South,Groceries,Snacks,7,30.59,10,192.72,46.0,Male,Cash
+2024-08-13,East,Toys,Action Figure,13,51.43,5,635.16,49.0,Male,Net Banking
+2024-08-14,West,Furniture,Sofa,10,775.34,0,7753.4,39.0,Female,UPI
+2024-08-14,West,Furniture,Bed,11,217.62,0,2393.82,26.0,Male,Debit Card
+2024-08-15,East,Groceries,Rice,12,32.29,10,348.73,47.0,Male,Credit Card
+2024-08-16,West,Clothing,Jeans,3,84.71,0,254.13,19.0,Female,Credit Card
+2024-08-16,East,Electronics,Headphones,2,1036.65,0,2073.3,59.0,Female,Cash
+2024-08-17,South,Clothing,Jacket,11,34.43,0,378.73,29.0,Male,UPI
+2024-08-18,West,Groceries,Spices,8,14.82,0,118.56,33.0,Female,Debit Card
+2024-08-19,North,Toys,RC Car,3,16.47,0,49.41,69.0,Male,Cash
+2024-08-19,South,Clothing,Cap,6,45.27,0,271.62,39.0,Female,Cash
+2024-08-20,East,Furniture,Bookshelf,9,156.03,5,1334.06,39.0,Female,Cash
+2024-08-21,South,Electronics,Smartphone,7,184.87,10,1164.68,48.0,Male,Debit Card
+2024-08-22,South,Groceries,Rice,14,6.91,10,87.07,64.0,Female,Cash
+2024-08-22,West,Electronics,Tablet,5,930.17,20,3720.68,60.0,Male,Net Banking
+2024-08-23,East,Electronics,Smartphone,1,834.91,0,834.91,59.0,Female,Credit Card
+2024-08-24,South,Toys,RC Car,6,15.09,5,86.01,29.0,Female,
+2024-08-24,West,Electronics,Smartphone,4,605.12,10,2178.43,31.0,Female,Net Banking
+2024-08-25,West,Toys,RC Car,10,52.47,0,524.7,23.0,Female,Net Banking
+2024-08-26,West,Toys,Doll,8,21.27,0,170.16,33.0,Male,Net Banking
+2024-08-27,South,Groceries,Rice,13,32.91,5,406.44,61.0,Female,Net Banking
+2024-08-27,West,Furniture,Sofa,1,479.14,15,407.27,30.0,Male,Cash
+2024-08-28,South,Electronics,Smartphone,13,1187.16,0,15433.08,56.0,Male,UPI
+2024-08-29,East,Groceries,Snacks,1,20.58,5,19.55,65.0,Male,Credit Card
+2024-08-30,East,Groceries,Beverages,4,21.0,10,75.6,30.0,Male,Cash
+2024-08-30,East,Toys,RC Car,6,20.52,0,123.12,30.0,Female,Credit Card
+2024-08-31,East,Furniture,Bookshelf,7,670.45,10,4223.84,63.0,Female,Credit Card
+2024-09-01,West,Furniture,Bookshelf,6,733.57,10,3961.28,29.0,Male,
+2024-09-02,West,Electronics,Smartwatch,9,1008.19,10,8166.34,28.0,Female,Credit Card
+2024-09-02,West,Furniture,Chair,10,135.24,5,1284.78,20.0,Female,Cash
+2024-09-03,West,Electronics,Headphones,6,495.37,15,2526.39,59.0,Male,Credit Card
+2024-09-04,South,Electronics,Smartwatch,2,511.68,10,921.02,60.0,Female,Debit Card
+2024-09-04,South,Electronics,Smartwatch,3,183.95,5,524.26,35.0,Female,Cash
+2024-09-05,East,Furniture,Bookshelf,5,623.7,0,3118.5,28.0,Female,Cash
+2024-09-06,South,Toys,RC Car,1,38.18,15,32.45,36.0,Male,Debit Card
+2024-09-07,North,Clothing,T-Shirt,10,95.55,15,812.18,50.0,Male,Net Banking
+2024-09-07,North,Groceries,Oil,3,36.41,0,109.23,28.0,Female,UPI
+2024-09-08,North,Clothing,Shoes,6,50.08,0,300.48,49.0,Female,UPI
+2024-09-09,North,Toys,RC Car,10,39.39,0,393.9,20.0,Male,Debit Card
+2024-09-10,South,Groceries,Spices,13,7.52,0,97.76,62.0,Female,Net Banking
+2024-09-10,South,Toys,RC Car,9,33.87,5,289.59,27.0,Male,Credit Card
+2024-09-11,North,Groceries,Oil,14,39.6,20,443.52,35.0,Female,Net Banking
+2024-09-12,East,Groceries,Rice,12,17.79,0,213.48,63.0,Male,Debit Card
+2024-09-13,South,Toys,RC Car,5,35.08,5,166.63,29.0,Male,Net Banking
+2024-09-13,East,Furniture,Sofa,7,678.05,5,4509.03,39.0,Male,UPI
+2024-09-14,West,Groceries,Snacks,1,4.27,0,4.27,52.0,Female,Net Banking
+2024-09-15,South,Groceries,Snacks,12,23.73,0,284.76,58.0,Male,UPI
+2024-09-15,East,Toys,Board Game,2,36.37,0,72.74,68.0,Male,UPI
+2024-09-16,West,Furniture,Sofa,9,220.94,5,1889.04,37.0,Male,Net Banking
+2024-09-17,South,Electronics,Smartphone,2,527.84,0,1055.68,20.0,Male,Net Banking
+2024-09-18,South,Electronics,Tablet,13,194.18,0,2524.34,51.0,Male,Debit Card
+2024-09-18,North,Furniture,Chair,1,210.44,5,199.92,62.0,Female,Net Banking
+2024-09-19,West,Furniture,Table,10,283.96,0,2839.6,57.0,Male,Net Banking
+2024-09-20,West,Furniture,Chair,4,661.56,0,2646.24,62.0,Female,Net Banking
+2024-09-21,West,Electronics,Smartwatch,11,303.75,0,3341.25,26.0,Female,Debit Card
+2024-09-21,East,Toys,RC Car,14,23.07,0,322.98,62.0,Female,Credit Card
+2024-09-22,South,Furniture,Table,3,616.55,0,1849.65,64.0,Female,Credit Card
+2024-09-23,East,Furniture,Chair,3,324.25,0,972.75,25.0,Female,Cash
+2024-09-23,North,Toys,RC Car,7,56.98,10,358.97,42.0,Male,Credit Card
+2024-09-24,East,Furniture,Table,12,178.86,10,1931.69,47.0,Male,UPI
+2024-09-25,East,Electronics,Smartwatch,1,737.52,0,737.52,24.0,Male,Credit Card
+2024-09-26,West,Electronics,Headphones,11,828.14,5,8654.06,65.0,Male,UPI
+2024-09-26,West,Toys,RC Car,1,22.94,0,22.94,44.0,Male,Debit Card
+2024-09-27,East,Toys,Puzzle,2,34.93,20,55.89,32.0,Female,Credit Card
+2024-09-28,East,Toys,RC Car,9,41.47,5,354.57,46.0,Female,Net Banking
+2024-09-29,North,Clothing,Jeans,1,34.92,10,31.43,34.0,Male,Credit Card
+2024-09-29,West,Furniture,Chair,5,238.14,15,1012.09,39.0,Female,Net Banking
+2024-09-30,South,Electronics,Laptop,1,187.01,10,168.31,58.0,Male,Cash
+2024-10-01,South,Clothing,Jeans,8,45.26,10,325.87,59.0,Male,
+2024-10-02,South,Clothing,Jeans,4,53.49,5,203.26,63.0,Male,Cash
+2024-10-02,South,Electronics,Headphones,12,1147.15,20,11012.64,66.0,Male,UPI
+2024-10-03,West,Furniture,Bed,6,610.94,0,3665.64,35.0,Male,Debit Card
+2024-10-04,North,Furniture,Sofa,9,216.89,0,1952.01,68.0,Male,UPI
+2024-10-04,East,Toys,Action Figure,12,53.85,0,646.2,24.0,Female,Debit Card
+2024-10-05,South,Furniture,Table,10,677.47,10,6097.23,64.0,Male,Debit Card
+2024-10-06,North,Electronics,Smartphone,13,1149.0,0,14937.0,22.0,Male,Debit Card
+2024-10-07,East,Toys,Action Figure,3,55.47,15,141.45,49.0,Male,Debit Card
+2024-10-07,North,Groceries,Oil,7,11.19,20,62.66,64.0,Female,UPI
+2024-10-08,North,Furniture,Bookshelf,1,420.21,5,399.2,,Male,Cash
+2024-10-09,North,Furniture,Table,9,358.5,0,3226.5,34.0,Female,Net Banking
+2024-10-10,West,Electronics,Tablet,1,178.21,5,169.3,46.0,Female,Debit Card
+2024-10-10,West,Groceries,Spices,13,14.88,10,174.1,64.0,Male,Cash
+2024-10-11,East,Groceries,Spices,7,15.0,5,99.75,20.0,Female,Credit Card
+2024-10-12,North,Groceries,Rice,8,15.8,20,101.12,24.0,Female,Cash
+2024-10-13,South,Electronics,Laptop,9,512.16,10,4148.5,33.0,Male,Credit Card
+2024-10-13,South,Electronics,Smartphone,9,604.99,5,5172.66,47.0,Male,Cash
+2024-10-14,South,Clothing,Shoes,10,48.59,0,485.9,34.0,Female,Cash
+2024-10-15,South,Furniture,Bookshelf,8,492.97,0,3943.76,53.0,Female,Debit Card
+2024-10-15,South,Toys,Board Game,8,9.85,10,70.92,22.0,Male,UPI
+2024-10-16,North,Electronics,Headphones,13,379.44,20,3946.18,52.0,Male,Debit Card
+2024-10-17,South,Clothing,T-Shirt,10,20.92,10,188.28,30.0,Female,Debit Card
+2024-10-18,South,Toys,Board Game,2,31.8,0,63.6,29.0,Male,Debit Card
+2024-10-18,North,Groceries,Oil,5,18.58,5,88.25,38.0,Female,Net Banking
+2024-10-19,West,Electronics,Laptop,10,897.7,0,8977.0,34.0,Male,Debit Card
+2024-10-20,West,Toys,RC Car,9,10.84,15,82.93,65.0,Female,UPI
+2024-10-21,South,Clothing,Jeans,9,13.28,0,119.52,57.0,Male,Net Banking
+2024-10-21,North,Clothing,Shoes,3,41.16,15,104.96,27.0,Male,Cash
+2024-10-22,South,Groceries,Rice,13,19.31,10,225.93,33.0,Male,Cash
+2024-10-23,West,Clothing,T-Shirt,5,15.75,0,78.75,29.0,Female,UPI
+2024-10-23,North,Groceries,Oil,5,3.34,15,14.19,32.0,Male,Net Banking
+2024-10-24,North,Electronics,Smartwatch,14,406.15,0,5686.1,65.0,Female,Net Banking
+2024-10-25,West,Clothing,Cap,5,50.52,0,252.6,33.0,Female,Net Banking
+2024-10-26,East,Toys,Action Figure,9,32.8,5,280.44,69.0,Female,Cash
+2024-10-26,South,Clothing,Cap,7,70.9,0,496.3,58.0,Female,Net Banking
+2024-10-27,North,Toys,RC Car,3,7.58,0,22.74,40.0,Female,Debit Card
+2024-10-28,North,Toys,Action Figure,11,26.66,10,263.93,62.0,Female,Cash
+2024-10-29,North,Clothing,Jeans,1,41.93,15,35.64,56.0,Female,Credit Card
+2024-10-29,West,Electronics,Headphones,9,723.09,5,6182.42,64.0,Female,UPI
+2024-10-30,North,Groceries,Oil,9,20.05,20,144.36,39.0,Male,Debit Card
+2024-10-31,North,Groceries,Spices,8,8.02,15,54.54,33.0,Male,Net Banking
+2024-11-01,North,Furniture,Bed,2,595.07,0,1190.14,21.0,Male,
+2024-11-01,West,Clothing,T-Shirt,13,50.52,5,623.92,18.0,Female,Credit Card
+2024-11-02,North,Electronics,Laptop,1,940.66,0,940.66,53.0,Female,Credit Card
+2024-11-03,South,Toys,Board Game,1,48.19,5,45.78,45.0,Male,Cash
+2024-11-03,West,Toys,RC Car,2,37.32,15,63.44,52.0,Male,UPI
+2024-11-04,North,Groceries,Beverages,12,37.9,5,432.06,40.0,Male,Credit Card
+2024-11-05,West,Clothing,Jeans,11,11.28,10,111.67,56.0,Female,Net Banking
+2024-11-06,East,Groceries,Spices,4,24.92,5,94.7,31.0,Male,Debit Card
+2024-11-06,South,Electronics,Headphones,3,65.71,0,197.13,52.0,Female,UPI
+2024-11-07,North,Toys,Puzzle,13,33.11,5,408.91,63.0,Female,UPI
+2024-11-08,North,Toys,Action Figure,12,12.23,0,146.76,26.0,Male,Credit Card
+2024-11-09,East,Clothing,Cap,14,90.6,5,1204.98,39.0,Male,Cash
+2024-11-09,East,Electronics,Laptop,7,412.98,20,2312.69,35.0,Female,Debit Card
+2024-11-10,North,Groceries,Rice,3,4.44,10,11.99,51.0,Female,Debit Card
+2024-11-11,East,Clothing,Jacket,3,53.52,0,160.56,41.0,Male,Cash
+2024-11-11,South,Electronics,Headphones,13,471.68,0,6131.84,57.0,Female,UPI
+2024-11-12,West,Toys,Doll,14,8.35,10,105.21,30.0,Female,Debit Card
+2024-11-13,South,Furniture,Sofa,3,735.02,0,2205.06,62.0,Female,Net Banking
+2024-11-14,West,Toys,Board Game,3,35.08,10,94.72,20.0,Female,UPI
+2024-11-14,South,Electronics,Tablet,9,110.63,0,995.67,40.0,Male,Debit Card
+2024-11-15,East,Groceries,Rice,13,32.66,15,360.89,54.0,Female,UPI
+2024-11-16,South,Furniture,Bookshelf,2,501.23,10,902.21,33.0,Male,Net Banking
+2024-11-17,North,Groceries,Spices,11,18.9,0,207.9,22.0,Male,Cash
+2024-11-17,South,Furniture,Chair,13,394.47,10,4615.3,28.0,Male,Debit Card
+2024-11-18,East,Clothing,Jacket,4,68.17,20,218.14,,Male,Cash
+2024-11-19,South,Groceries,Spices,10,37.29,0,372.9,38.0,Male,Credit Card
+2024-11-20,South,Toys,RC Car,13,41.68,0,541.84,33.0,Male,UPI
+2024-11-20,West,Furniture,Bed,2,256.15,15,435.45,25.0,Male,Net Banking
+2024-11-21,West,Furniture,Bed,8,395.39,0,3163.12,43.0,Female,Net Banking
+2024-11-22,North,Toys,Puzzle,8,59.91,5,455.32,,Female,Net Banking
+2024-11-22,East,Groceries,Beverages,8,15.39,0,123.12,42.0,Male,Net Banking
+2024-11-23,South,Groceries,Rice,6,31.52,10,170.21,19.0,Female,Net Banking
+2024-11-24,West,Electronics,Laptop,1,546.79,10,492.11,41.0,Female,Cash
+2024-11-25,West,Clothing,Jacket,8,92.06,0,736.48,51.0,Male,Credit Card
+2024-11-25,East,Toys,Board Game,13,36.05,0,468.65,20.0,Female,Credit Card
+2024-11-26,East,Clothing,T-Shirt,7,59.11,5,393.08,52.0,Female,Cash
+2024-11-27,South,Furniture,Chair,5,543.27,0,2716.35,53.0,Female,Net Banking
+2024-11-28,South,Clothing,Cap,4,66.59,15,226.41,48.0,Male,Credit Card
+2024-11-28,South,Groceries,Snacks,1,32.35,10,29.12,54.0,Female,Cash
+2024-11-29,East,Groceries,Snacks,5,8.64,10,38.88,50.0,Female,Cash
+2024-11-30,North,Toys,Action Figure,14,21.48,5,285.68,66.0,Female,UPI
+2024-12-01,South,Clothing,Cap,10,34.27,0,342.7,31.0,Male,Cash
+2024-12-01,South,Groceries,Spices,6,29.91,0,179.46,46.0,Male,Debit Card
+2024-12-02,South,Clothing,Jacket,14,73.81,0,1033.34,58.0,Female,Cash
+2024-12-03,North,Toys,Action Figure,10,40.05,0,400.5,23.0,Female,UPI
+2024-12-03,South,Toys,Board Game,12,39.65,5,452.01,,Female,Cash
+2024-12-04,East,Clothing,Jacket,13,55.54,15,613.72,,Male,
+2024-12-05,South,Furniture,Sofa,2,597.01,0,1194.02,40.0,Male,Debit Card
+2024-12-06,South,Groceries,Spices,5,3.11,0,15.55,35.0,Female,Net Banking
+2024-12-06,East,Electronics,Smartphone,1,200.27,5,190.26,58.0,Female,Cash
+2024-12-07,North,Clothing,Jeans,7,67.34,20,377.1,38.0,Male,Debit Card
+2024-12-08,East,Groceries,Oil,9,21.66,20,155.95,23.0,Male,Credit Card
+2024-12-09,North,Groceries,Beverages,5,38.97,5,185.11,29.0,Male,Credit Card
+2024-12-09,West,Furniture,Bookshelf,11,252.08,0,2772.88,60.0,Female,Debit Card
+2024-12-10,East,Clothing,Jeans,6,46.71,0,280.26,20.0,Female,Debit Card
+2024-12-11,North,Electronics,Laptop,5,1020.81,10,4593.64,57.0,Female,Cash
+2024-12-11,South,Toys,Puzzle,5,36.67,10,165.02,54.0,Male,Cash
+2024-12-12,North,Clothing,T-Shirt,11,69.94,5,730.87,55.0,Female,Debit Card
+2024-12-13,South,Electronics,Laptop,3,795.5,20,1909.2,29.0,Female,Net Banking
+2024-12-14,North,Furniture,Bookshelf,5,609.22,10,2741.49,33.0,Female,Cash
+2024-12-14,East,Electronics,Tablet,9,167.18,10,1354.16,66.0,Male,Net Banking
+2024-12-15,West,Clothing,T-Shirt,2,63.42,10,114.16,40.0,Male,Credit Card
+2024-12-16,East,Electronics,Headphones,1,462.54,15,393.16,63.0,Male,Debit Card
+2024-12-17,South,Electronics,Headphones,11,1094.6,10,10836.54,28.0,Male,Debit Card
+2024-12-17,North,Furniture,Table,8,564.1,0,4512.8,23.0,Female,UPI
+2024-12-18,West,Toys,RC Car,6,16.27,10,87.86,32.0,Male,Debit Card
+2024-12-19,East,Clothing,Jacket,13,26.07,20,271.13,44.0,Male,UPI
+2024-12-20,South,Toys,Action Figure,9,7.86,0,70.74,52.0,Male,UPI
+2024-12-20,West,Furniture,Bookshelf,11,468.56,0,5154.16,21.0,Female,Debit Card
+2024-12-21,East,Furniture,Bookshelf,8,164.96,0,1319.68,27.0,Male,Credit Card
+2024-12-22,West,Furniture,Bed,7,103.38,0,723.66,39.0,Male,
+2024-12-22,East,Toys,RC Car,4,40.72,0,162.88,25.0,Male,Credit Card
+2024-12-23,South,Furniture,Bookshelf,4,600.6,0,2402.4,,Female,Credit Card
+2024-12-24,West,Furniture,Table,8,643.58,0,5148.64,18.0,Female,Cash
+2024-12-25,West,Groceries,Spices,2,37.21,0,74.42,45.0,Female,Debit Card
+2024-12-25,West,Furniture,Bookshelf,5,454.54,10,2045.43,24.0,Male,Cash
+2024-12-26,East,Toys,Action Figure,6,55.12,5,314.18,48.0,Male,Debit Card
+2024-12-27,West,Furniture,Sofa,7,148.29,10,934.23,35.0,Male,Net Banking
+2024-12-28,West,Electronics,Headphones,7,250.07,10,1575.44,38.0,Male,Credit Card
+2024-12-28,South,Furniture,Bed,9,116.61,15,892.07,47.0,Female,Credit Card
+2024-12-29,South,Clothing,Shoes,7,65.97,15,392.52,49.0,Male,Credit Card
+2024-12-30,West,Toys,Puzzle,14,58.04,10,731.3,37.0,Female,Credit Card
+2024-12-31,South,Clothing,Jacket,8,66.81,0,534.48,51.0,Female,Cash
+2024-08-10,West,Furniture,Table,2,688.3,5,1307.77,60.0,Male,Cash
+2024-09-05,East,Furniture,Bookshelf,5,623.7,0,3118.5,28.0,Female,Cash
+2024-02-04,East,Electronics,Headphones,6,852.32,5,4858.22,49.0,Female,Net Banking
+2024-02-19,North,Electronics,Laptop,4,577.84,0,2311.36,49.0,Male,UPI
+2024-12-16,East,Electronics,Headphones,1,462.54,15,393.16,63.0,Male,Debit Card
